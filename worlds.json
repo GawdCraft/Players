@@ -1,0 +1,19 @@
+{
+  "name": "World",
+  "advancements": true,
+  "stats": true,
+  "worlds": [
+    {
+      "name": "world",
+      "type": "Overworld"
+    },
+    {
+      "name": "world_nether",
+      "type": "Nether"
+    },
+    {
+      "name": "world_the_end",
+      "type": "End"
+    }
+  ]
+}
